@@ -1,0 +1,4 @@
+﻿  lr3.cpp
+T:\OOP\lr3\lr3.cpp(165,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+T:\OOP\lr3\lr3.cpp(214,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lr3.vcxproj -> T:\OOP\lr3\x64\Debug\lr3.exe
