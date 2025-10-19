@@ -1,0 +1,10 @@
+T:\OOP\lr4\bin\Debug\lr4.exe.config
+T:\OOP\lr4\bin\Debug\lr4.exe
+T:\OOP\lr4\bin\Debug\lr4.pdb
+T:\OOP\lr4\obj\Debug\lr4.csproj.AssemblyReference.cache
+T:\OOP\lr4\obj\Debug\lr4.Form1.resources
+T:\OOP\lr4\obj\Debug\lr4.Properties.Resources.resources
+T:\OOP\lr4\obj\Debug\lr4.csproj.GenerateResource.cache
+T:\OOP\lr4\obj\Debug\lr4.csproj.CoreCompileInputs.cache
+T:\OOP\lr4\obj\Debug\lr4.exe
+T:\OOP\lr4\obj\Debug\lr4.pdb
