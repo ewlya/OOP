@@ -1,0 +1,10 @@
+T:\OOP\lr4_2\bin\Debug\lr4_2.exe.config
+T:\OOP\lr4_2\bin\Debug\lr4_2.exe
+T:\OOP\lr4_2\bin\Debug\lr4_2.pdb
+T:\OOP\lr4_2\obj\Debug\lr4_2.csproj.AssemblyReference.cache
+T:\OOP\lr4_2\obj\Debug\lr4_2.Form1.resources
+T:\OOP\lr4_2\obj\Debug\lr4_2.Properties.Resources.resources
+T:\OOP\lr4_2\obj\Debug\lr4_2.csproj.GenerateResource.cache
+T:\OOP\lr4_2\obj\Debug\lr4_2.csproj.CoreCompileInputs.cache
+T:\OOP\lr4_2\obj\Debug\lr4_2.exe
+T:\OOP\lr4_2\obj\Debug\lr4_2.pdb
