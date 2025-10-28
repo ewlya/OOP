@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana\\Desktop\\\u041E\u041E\u041F\\lr2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3BF02A-894F-4F8D-ABB2-05DB79F5B022}|lr2.vcxproj|C:\\Users\\Dana\\Desktop\\\u041E\u041E\u041F\\lr2\\lr2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF3BF02A-894F-4F8D-ABB2-05DB79F5B022}|lr2.vcxproj|solutionrelative:lr2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lr2.cpp",
+              "DocumentMoniker": "C:\\Users\\Dana\\Desktop\\\u041E\u041E\u041F\\lr2\\lr2.cpp",
+              "RelativeDocumentMoniker": "lr2.cpp",
+              "ToolTip": "C:\\Users\\Dana\\Desktop\\\u041E\u041E\u041F\\lr2\\lr2.cpp",
+              "RelativeToolTip": "lr2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T15:13:05.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
